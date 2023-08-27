@@ -22,7 +22,7 @@
             <button class="diygw-action">
 							<div class="diygw-grid-inner">
 								<div class="diygw-grid-icon diygw-avatar" style="">
-									<img mode="aspectFit" class="diygw-avatar-img" src="./static/grid2.png" />
+									<img mode="aspectFit" class="diygw-avatar-img" src="/static/grid2.png" />
 								</div>
 								<div class="diygw-grid-title">菜单二</div>
 							</div>
@@ -30,7 +30,7 @@
 						<button class="diygw-action">
 							<div class="diygw-grid-inner">
 								<div class="diygw-grid-icon diygw-avatar" style="">
-									<img mode="aspectFit" class="diygw-avatar-img" src="./static/grid3.png" />
+									<img mode="aspectFit" class="diygw-avatar-img" src="/static/grid3.png" />
 								</div>
 								<div class="diygw-grid-title">菜单三</div>
 							</div>
@@ -38,7 +38,7 @@
 						<button class="diygw-action">
 							<div class="diygw-grid-inner">
 								<div class="diygw-grid-icon diygw-avatar" style="">
-									<img mode="aspectFit" class="diygw-avatar-img" src="./static/grid4.png" />
+									<img mode="aspectFit" class="diygw-avatar-img" src="/static/grid4.png" />
 								</div>
 								<div class="diygw-grid-title">菜单四</div>
 							</div>
